@@ -1,0 +1,17 @@
+# Virtual Environment
+local_llm/
+venv/
+env/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# MacOS System Files
+.DS_Store
+
+# (Opsional) Abaikan Model Weights / Dataset jika ukurannya besar nanti
+*.pt
+*.pth
